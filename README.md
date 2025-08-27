@@ -10,3 +10,13 @@ eu sei:
 -linguagem c;
 -python;
 -banco de dados;
+
+## meu primeiro programa
+``` 
+int main() {
+    
+    printf("hello world");
+
+    return 0;
+}
+``` 
