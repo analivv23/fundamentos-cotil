@@ -1,2 +1,3 @@
 # fundamentos-cotil
- "Um repositório para os arquivos da disciplina de Fundamentos."
+## sobre mim 
+Meu nome é **Ana Livia Moreira** eu tenho _15 anos_ .Gosto muito de matematica, e olimpiadas cientificas e gatos!
